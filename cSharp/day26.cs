@@ -1,5 +1,5 @@
 // 26. Create functions: subtract(x,y), divide(x,y), multiple(x,y)
-
+// day 26
 static void subtract(int x, int y)
 {
     int diff = x - y;
